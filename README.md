@@ -1,2 +1,2 @@
 # guiaSerrana
-Aplicacion de informe implementada en apache cordova como guia turistica para la sierra de los padres.
+Aplicacion implementada en apache cordova como guia turistica para la sierra de los padres.
